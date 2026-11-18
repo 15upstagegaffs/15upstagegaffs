@@ -1,16 +1,21 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=110&section=header&text=Tegar%20Ramadhani&fontSize=34&fontColor=ffffff&fontAlignY=36" width="100%" />
 
-<!--
-**15upstagegaffs/15upstagegaffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi — Tegar, developer.
 
-Here are some ideas to get you started:
+Frontend, design systems, and small tools that load in under a second.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Madiun, Indonesia · Studio Kawat
+
+**What I'm up to**
+
+- 🗂️ cleaning up issue backlog
+- 🧊 freezing scope so it ships
+- ☀️ morning build, quiet logs
+
+**Stack**
+
+![Perl](https://img.shields.io/badge/Perl-30363D?style=for-the-badge&logo=github&logoColor=white) ![Mojolicious](https://img.shields.io/badge/Mojolicious-30363D?style=for-the-badge&logo=github&logoColor=white) ![DBIx](https://img.shields.io/badge/DBIx-30363D?style=for-the-badge&logo=github&logoColor=white) ![Test2](https://img.shields.io/badge/Test2-30363D?style=for-the-badge&logo=github&logoColor=white) ![Plack](https://img.shields.io/badge/Plack-30363D?style=for-the-badge&logo=github&logoColor=white)
+
+![Last commit](https://img.shields.io/github/last-commit/15upstagegaffs/15upstagegaffs?style=flat-square&color=e5e7eb&label=last%20commit)
+
+_Building in public, one small commit at a time._
